@@ -2,14 +2,29 @@
   "name": "Prepdesk",
   "short_name": "Prepdesk",
   "description": "Mock-test practice with topic-level analysis.",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/Prepdesk/",
+  "scope": "/Prepdesk/",
   "display": "standalone",
   "background_color": "#0b5bea",
   "theme_color": "#0b5bea",
   "icons": [
-    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    {
+      "src": "/Prepdesk/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Prepdesk/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Prepdesk/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
